@@ -1,2 +1,2 @@
 # Digit-Recognition-Using-Scikit-Learn
-Recognise hand written digits 
+My 2nd Project on ML using SK Learn
